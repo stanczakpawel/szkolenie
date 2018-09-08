@@ -8,5 +8,9 @@
 </head>
 <body>
 <h1>Menu główne</h1>
+	<form action="#" method="post">
+		<label >Email address</label>
+    <input type="text"  id="email" >
+	</form>
 </body>
 </html>
