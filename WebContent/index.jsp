@@ -14,7 +14,9 @@
 		<label>Name</label>
         <input type="text"  id="name" > 
 		<label>Last</label>
-        <input type="text"  id="lastname" >                 
+        <input type="text"  id="lastname" > 
+		<label>First name</label>
+        <input type="text"  id="firstname" >                         
 	</form>
 </body>
 </html>
