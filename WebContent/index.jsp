@@ -10,7 +10,11 @@
 <h1>Menu główne</h1>
 	<form action="#" method="post">
 		<label >Email address</label>
-    <input type="text"  id="email" >
+        <input type="text"  id="email" >
+		<label>Name</label>
+        <input type="text"  id="name" > 
+		<label>Last</label>
+        <input type="text"  id="lastname" >                 
 	</form>
 </body>
 </html>
