@@ -14,7 +14,7 @@
    <div class="container">
     <div class="row">
       <div class="col-lg">
-        <h1>Menu glowne</h1>
+        <h1>Logowanie do symulatora</h1>
 	    <form action="#" method="post">
  	      <div class="form-group">
     	    <label for="exampleInputEmail1">Email address</label>
