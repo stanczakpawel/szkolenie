@@ -15,7 +15,7 @@
     <div class="row">
       <div class="col-lg">
         <h1>Logowanie do symulatora</h1>
-	    <form action="#" method="post">
+	    <form action="/login" method="post">
  	      <div class="form-group">
     	    <label for="exampleInputEmail1">Email address</label>
     	    <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
